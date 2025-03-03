@@ -5,7 +5,7 @@ Welcome to my **Codewars Codex**, a repository documenting my journey through th
 
 ---
 
-## **📚 What Are Ranks?**
+## **What Are Ranks?**
 
 On Codewars, ranks reflect both the **difficulty of challenges** (kata) and a user's **proficiency**. They’re divided into:  
 
@@ -14,7 +14,7 @@ On Codewars, ranks reflect both the **difficulty of challenges** (kata) and a us
 
 ---
 
-## **🗂️ Repository Structure**
+## **Repository Structure**
 
 This repository organises solutions by rank, following the progression from **8 Kyu** (easiest) to **1 Dan** (master-level). Currently, the repository focuses on ranks **8 Kyu** to **5 Kyu**, with plans to expand to higher levels as I progress. 
 
@@ -22,14 +22,14 @@ Each folder contains solutions to kata of that specific rank, named after the ka
 
 ---
 
-## **🧑‍💻 About Me**
+## **About Me**
 
 I’m a passionate coder diving deeper into JavaScript through hands-on problem-solving. My journey is about more than just learning syntax— it's about building logic, creativity, and confidence.
 I find joy in unraveling challenging problems, inspired by themes of curiosity, mastery, and transcendence (much like the philosophy behind Codewars’ ranks!).
 
 ---
 
-## **✨ Why This Repository?**
+## **Why This Repository?**
 
 1. **Track My Growth:** As I refine my JavaScript skills, this repo serves as a record of my progress and achievements.  
 2. **Tackle Challenges:** With each kata, I face a new puzzle, developing my problem-solving skills and deepening my understanding of JavaScript.  
@@ -38,15 +38,15 @@ I find joy in unraveling challenging problems, inspired by themes of curiosity, 
 ---
 
 
-## **⏳ Future Goals**
+## **Future Goals**
 
--**Comeplete One Kata Daily:** Maintain consistency by solving at least one kata every day.
+
 - **Reach 1 Dan Kata:** Reach the highest proficiency level on Codewars for JavaScript.  
 - **Experiment with More Languages:** Although this repo focuses on JavaScript, I plan to expand into other programming languages in the future.
 
 ---
 
-## 🌟 My Codewars Progress
+## My Codewars Progress
 
 ![Codewars Badge](https://www.codewars.com/users/metamodellum/badges/large)
 
@@ -54,7 +54,7 @@ I find joy in unraveling challenging problems, inspired by themes of curiosity, 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language**: JavaScript (ES6+)
 - **Tools**: Node.js (for local testing)
